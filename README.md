@@ -1,7 +1,8 @@
 Java Spring Todos
 
 This is a RESTful API built with Spring Boot, following best practices and modern development principles. The project provides a robust backend for [briefly describe the purpose of your application, e.g., managing users, products, or other resources], leveraging Spring technologies and a MySQL database.
-Adopted Practices
+
+Adopted Practices:
 
 SOLID: Ensuring clean, maintainable, and scalable code through single responsibility, open/closed, Liskov substitution, interface segregation, and dependency inversion principles.
 DRY (Don't Repeat Yourself): Avoiding code duplication to improve maintainability.
@@ -13,7 +14,7 @@ Dependency Injection: Using Spring's IoC container for loose coupling and easier
 Error Handling: Consistent and meaningful error responses for better client experience.
 Swagger Documentation: Automatically generated API documentation using SpringDoc OpenAPI 3.
 
-Technologies Used
+Technologies Used:
 
 Spring Boot: Framework for rapid application development and simplified configuration.
 Spring MVC: Handling HTTP requests and responses in a structured manner.
