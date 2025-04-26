@@ -1,4 +1,5 @@
-Project Name
+Java Spring Todos
+
 Description
 This is a RESTful API built with Spring Boot, following best practices and modern development principles. The project provides a robust backend for [briefly describe the purpose of your application, e.g., managing users, products, or other resources], leveraging Spring technologies and a MySQL database.
 Adopted Practices
