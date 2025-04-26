@@ -64,6 +64,6 @@ Push to the branch (git push origin feature/your-feature).
 Open a Pull Request.
 
 License
-[Specify your license, e.g., MIT License]
+[MIT License]
 Contact
 For any inquiries, please contact [pbittencourtjr@gmail.com].
